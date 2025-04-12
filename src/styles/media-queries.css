@@ -1,0 +1,5 @@
+@media screen and (max-width: 1015px) {
+    .offer_list-item{ /* Pega essa pois ela que está com o display grid*/
+        grid-template-columns: 1fr 1fr; /* 2 frações, dois cards*/
+    }
+}
